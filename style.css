@@ -10,10 +10,10 @@
   display: block;
   text-align: right;
 }
-.app-logo .logo-pic {
+.app-logo__pic {
   width: 100%;
 }
-.app-logo .more-inf {
+.app-logo__link {
   font-family: fantasy, cursive;
 }
 
